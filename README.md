@@ -1,1 +1,1 @@
-https://app.hubspot.com/contacts/l/objects/${custom-obj-number}/views/all/list
+[Link to custom object](https://app.hubspot.com/contacts/l/objects/2-125341721/views/all/list)
